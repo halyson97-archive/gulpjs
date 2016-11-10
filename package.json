@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/halyson97/gulpjs/issues"
   },
-  "homepage": "https://github.com/halyson97/gulpjs#readme"
+  "homepage": "https://github.com/halyson97/gulpjs#readme",
+  "devDependencies": {
+    "gulp-server-livereload": "^1.9.2",
+    "run-sequence": "^1.2.2"
+  }
 }

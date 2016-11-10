@@ -1,0 +1,5 @@
+## Instalar as dependencias
+
+npm install --save-dev gulp-server-livereload
+
+npm install --save-dev run-sequence
